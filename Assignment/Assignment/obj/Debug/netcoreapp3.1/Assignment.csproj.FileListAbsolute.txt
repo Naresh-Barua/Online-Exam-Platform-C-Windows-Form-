@@ -1,0 +1,13 @@
+C:\Users\88018\Downloads\C#\Assignment Mid Fall\Assignment\Assignment\bin\Debug\netcoreapp3.1\Assignment.exe
+C:\Users\88018\Downloads\C#\Assignment Mid Fall\Assignment\Assignment\bin\Debug\netcoreapp3.1\Assignment.deps.json
+C:\Users\88018\Downloads\C#\Assignment Mid Fall\Assignment\Assignment\bin\Debug\netcoreapp3.1\Assignment.runtimeconfig.json
+C:\Users\88018\Downloads\C#\Assignment Mid Fall\Assignment\Assignment\bin\Debug\netcoreapp3.1\Assignment.runtimeconfig.dev.json
+C:\Users\88018\Downloads\C#\Assignment Mid Fall\Assignment\Assignment\bin\Debug\netcoreapp3.1\Assignment.dll
+C:\Users\88018\Downloads\C#\Assignment Mid Fall\Assignment\Assignment\bin\Debug\netcoreapp3.1\Assignment.pdb
+C:\Users\88018\Downloads\C#\Assignment Mid Fall\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.csprojAssemblyReference.cache
+C:\Users\88018\Downloads\C#\Assignment Mid Fall\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.AssemblyInfoInputs.cache
+C:\Users\88018\Downloads\C#\Assignment Mid Fall\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.AssemblyInfo.cs
+C:\Users\88018\Downloads\C#\Assignment Mid Fall\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\88018\Downloads\C#\Assignment Mid Fall\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.dll
+C:\Users\88018\Downloads\C#\Assignment Mid Fall\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.pdb
+C:\Users\88018\Downloads\C#\Assignment Mid Fall\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.genruntimeconfig.cache
