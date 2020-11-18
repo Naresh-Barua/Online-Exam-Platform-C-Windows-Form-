@@ -16,13 +16,13 @@ namespace Assignment
             java.SectionAdding(annexOne);
             java.SectionAdding(annexTwo);
 
-            Teacher TanvirAhmed = new Teacher("Tanvir Ahmed", "000-111-222", 14);
+            Faculty TanvirAhmed = new Faculty("Tanvir Ahmed", "000-111-222", 14);
             TanvirAhmed.SectionAdding(annexOne);
             TanvirAhmed.SectionAdding(annexTwo);
-            annexOne.TeacherAdding(TanvirAhmed);
-            annexTwo.TeacherAdding(TanvirAhmed);
+            annexOne.FacultyAdding(TanvirAhmed);
+            annexTwo.FacultyAdding(TanvirAhmed);
 
-            java.SectionAndTeacher();
+            java.SectionAndFaculty();
             TanvirAhmed.showSectionDetails();
 
         }

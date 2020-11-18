@@ -22,7 +22,7 @@ namespace Assignment
             {
                 this.secName[SectionNo++] = secName;
             }
-            public void SectionAndTeacher()
+            public void SectionAndFaculty()
             {
                 foreach (Section i in secName)
                 {
