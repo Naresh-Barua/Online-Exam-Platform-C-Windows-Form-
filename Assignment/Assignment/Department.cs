@@ -10,6 +10,9 @@ namespace Assignment
         {
             private string deptName 
             { set; get; }
+            private string deptId
+            { set; get; }
+
             
             public Department(string deptName)
             {

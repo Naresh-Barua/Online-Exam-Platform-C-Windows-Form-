@@ -24,9 +24,9 @@ namespace Assignment
             }
             public void SectionAndFaculty()
             {
-                foreach (Section i in secName)
+                foreach (Section x in secName)
                 {
-                    i.showDetails();
+                    x.showDetails();
                 }
             }
             Section[] secName = new Section[20];

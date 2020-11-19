@@ -22,9 +22,9 @@ namespace Assignment
             annexOne.FacultyAdding(TanvirAhmed);
             annexTwo.FacultyAdding(TanvirAhmed);
 
-            java.SectionAndFaculty();
+            
             TanvirAhmed.showSectionDetails();
-
+            java.SectionAndFaculty();
         }
     }
 }

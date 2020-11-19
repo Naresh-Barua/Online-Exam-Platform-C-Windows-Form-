@@ -10,7 +10,9 @@ namespace Assignment
         { set; get; }
         private string stutId 
         { set; get; }
-        private string studept 
+        private string stuDept 
+        { set; get; }
+        private string stuSec
         { set; get; }
     }
 }
